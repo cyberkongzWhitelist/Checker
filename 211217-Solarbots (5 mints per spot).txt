@@ -1,4 +1,4 @@
-Whitelist Wallet Check£º
+Whitelist Wallet Check: 
 0x95e-----91FfA
 0xae8-----E37F6
 0x1eD-----3EA22
