@@ -1,0 +1,2 @@
+# WhitelistChecker
+Cyberkongz whitelist
